@@ -1,1 +1,1 @@
-I designed an interface that contains five sliders for motors to control the robot arm by using HTML, CSS, and JS and Created a database that contains one table called Motors contains 5, one column for the run button. and the other four columns for the motors.
+I designed an interface that contains five sliders for motors to control the robot arm by using HTML, CSS, and JS and Created a database that contains one table called Motors contains 5 columns for the motors.
